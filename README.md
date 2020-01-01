@@ -1,4 +1,4 @@
-# mockup-helpdoc.github.io
+# Mockup Helpdoc
 Turn mockup to real web pages for new year celebration
 
 link mockup 
